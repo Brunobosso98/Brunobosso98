@@ -18,7 +18,7 @@ Experiência com SQL, bancos relacionais e APIs REST (XML/JSON), além de IA apl
 - IA aplicada (OpenAI/Gemini, embeddings, ML)
 
 ## 🛠️ Tech Stack
-**Backend:** Python, Flask, Node.js  
+**Backend:** Python, Flask, Node.js, Go
 **Frontend:** React, Next.js, TypeScript, Tailwind  
 **Data:** PostgreSQL, SQL  
 **DevOps:** Docker, AWS  
