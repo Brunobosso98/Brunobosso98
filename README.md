@@ -1,7 +1,7 @@
 # Bruno Bosso Martins 👋
 
 Desenvolvedor de Sistemas / Full-Stack com foco em automação de processos e integrações corporativas.  
-Experiência com SQL, bancos relacionais e APIs REST (XML/JSON), além de IA aplicada para otimizar auditorias e validações.
+Experiência com SQL, bancos relacionais e APIs REST (XML/JSON), além de IA aplicada para otimização de processos e validações.
 
 ## 🚀 Projetos em produção
 - **Game Day Nexus (SaaS B2B)** — ERP esportivo para clubes de futebol  
@@ -14,7 +14,8 @@ Experiência com SQL, bancos relacionais e APIs REST (XML/JSON), além de IA apl
 - Automação e eficiência operacional  
 - Integrações REST / Web Services (XML/JSON)  
 - SQL avançado e modelagem relacional  
-- Desenvolvimento web full-stack  
+- Desenvolvimento web full-stack
+- Machine Learning com PyTorch
 - IA aplicada (OpenAI/Gemini, embeddings, ML)
 
 ## 🛠️ Tech Stack
